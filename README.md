@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nicolasmas/provision_docker.svg?branch=master)](https://travis-ci.org/nicolasmas/provision_docker)
+[![Build Status](https://travis-ci.org/NicolasMas/provision_docker.svg?branch=master)](https://travis-ci.org/NicolasMas/provision_docker)
 
 
 # provision_docker
